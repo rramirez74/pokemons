@@ -1,0 +1,21 @@
+.card{
+  width: 220px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.295) 0px 0px 10px ;
+  padding: 15px;
+}
+.card-logo{
+  padding: 10px;
+}
+.card-content{
+  color:#4CAF50;
+  text-align: center;
+}
+
+.card-image{
+  width: 200px;
+  height: 200px;
+  align-items: center;
+}
